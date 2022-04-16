@@ -1,0 +1,2 @@
+[frontend_servers]
+terraform1 ansible_host=51.250.14.211 ansible_user=debain ansible_ssh_private_key=~/.ssh/id_rsa
